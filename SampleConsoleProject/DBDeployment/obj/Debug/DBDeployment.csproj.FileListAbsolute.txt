@@ -1,0 +1,9 @@
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\bin\Debug\DBDeployment.dll.config
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\bin\Debug\DBDeployment.dll
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\bin\Debug\DBDeployment.pdb
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\obj\Debug\DBDeployment.csprojResolveAssemblyReference.cache
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\obj\Debug\DBDeployment.csproj.CoreCompileInputs.cache
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\obj\Debug\DBDeployment.dll
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\obj\Debug\DBDeployment.pdb
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\bin\Debug\rh.exe
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\bin\Debug\rh.exe.config

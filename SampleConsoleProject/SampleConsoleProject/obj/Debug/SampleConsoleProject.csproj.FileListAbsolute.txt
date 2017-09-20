@@ -1,0 +1,10 @@
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\bin\Debug\SampleConsoleProject.exe.config
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\bin\Debug\SampleConsoleProject.exe
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\bin\Debug\SampleConsoleProject.pdb
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\bin\Debug\EntityFramework.dll
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\bin\Debug\EntityFramework.xml
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\obj\Debug\SampleConsoleProject.csproj.CoreCompileInputs.cache
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\obj\Debug\SampleConsoleProject.exe
+c:\users\petro_romaniv\Source\Repos\SampleConsoleProject\SampleConsoleProject\obj\Debug\SampleConsoleProject.pdb

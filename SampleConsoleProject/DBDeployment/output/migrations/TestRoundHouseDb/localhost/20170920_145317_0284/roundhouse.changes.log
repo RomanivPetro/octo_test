@@ -1,0 +1,58 @@
+2017-09-20 14:53:17,060 [INFO ] - Running RoundhousE v0.8.7.0 against localhost - TestRoundHouseDb.
+2017-09-20 14:53:17,070 [INFO ] - Looking in .\DatabaseMigration for scripts to run.
+2017-09-20 14:53:17,071 [INFO ] - ==================================================
+2017-09-20 14:53:17,071 [INFO ] - Setup, Backup, Create/Restore/Drop
+2017-09-20 14:53:17,071 [INFO ] - ==================================================
+2017-09-20 14:53:17,072 [INFO ] - Creating TestRoundHouseDb database on localhost server if it doesn't exist.
+2017-09-20 14:53:18,015 [INFO ] - ==================================================
+2017-09-20 14:53:18,018 [INFO ] - RoundhousE Structure
+2017-09-20 14:53:18,018 [INFO ] - ==================================================
+2017-09-20 14:53:18,050 [INFO ] -  Running database type specific tasks.
+2017-09-20 14:53:18,050 [INFO ] -  Creating RoundhousE schema if it doesn't exist.
+2017-09-20 14:53:18,054 [INFO ] -  Creating [Version] table if it doesn't exist.
+2017-09-20 14:53:18,055 [INFO ] -  Creating [ScriptsRun] table if it doesn't exist.
+2017-09-20 14:53:18,055 [INFO ] -  Creating [ScriptsRunErrors] table if it doesn't exist.
+2017-09-20 14:53:18,277 [INFO ] - ==================================================
+2017-09-20 14:53:18,278 [INFO ] - Versioning
+2017-09-20 14:53:18,278 [INFO ] - ==================================================
+2017-09-20 14:53:18,398 [INFO ] -  Attempting to resolve version from C:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\_BuildInfo.xml using //buildInfo/version.
+2017-09-20 14:53:18,398 [WARN ] - Unable to get version from xml file C:\users\petro_romaniv\Source\Repos\SampleConsoleProject\DBDeployment\_BuildInfo.xml. File doesn't exist.
+2017-09-20 14:53:18,400 [INFO ] -  Migrating TestRoundHouseDb from version 0 to 0.
+2017-09-20 14:53:18,400 [INFO ] -  Versioning TestRoundHouseDb database with version 0 based on .
+2017-09-20 14:53:18,433 [INFO ] - ==================================================
+2017-09-20 14:53:18,433 [INFO ] - Migration Scripts
+2017-09-20 14:53:18,434 [INFO ] - ==================================================
+2017-09-20 14:53:18,438 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,438 [INFO ] - Looking for AlterDatabase scripts in ".\DatabaseMigration\alterDatabase".
+2017-09-20 14:53:18,438 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,440 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,440 [INFO ] - Looking for Run Before Update scripts in ".\DatabaseMigration\runBeforeUp".
+2017-09-20 14:53:18,440 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,440 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,440 [INFO ] - Looking for Update scripts in ".\DatabaseMigration\up". These should be one time only scripts.
+2017-09-20 14:53:18,440 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,456 [INFO ] -  Skipped 0001_CreateTable.sql - One time script.
+2017-09-20 14:53:18,457 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,457 [INFO ] - Looking for Run First After Update scripts in ".\DatabaseMigration\runFirstAfterUp".
+2017-09-20 14:53:18,457 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,457 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,457 [INFO ] - Looking for Function scripts in ".\DatabaseMigration\functions".
+2017-09-20 14:53:18,458 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,458 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,458 [INFO ] - Looking for View scripts in ".\DatabaseMigration\views".
+2017-09-20 14:53:18,458 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,458 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,458 [INFO ] - Looking for Stored Procedure scripts in ".\DatabaseMigration\sprocs".
+2017-09-20 14:53:18,459 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,459 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,459 [INFO ] - Looking for Index scripts in ".\DatabaseMigration\indexes".
+2017-09-20 14:53:18,459 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,459 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,459 [INFO ] - Looking for Run after Other Anytime Scripts scripts in ".\DatabaseMigration\runAfterOtherAnyTimeScripts".
+2017-09-20 14:53:18,459 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,486 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,486 [INFO ] - Looking for Permission scripts in ".\DatabaseMigration\permissions". These scripts will run every time
+2017-09-20 14:53:18,487 [INFO ] - --------------------------------------------------
+2017-09-20 14:53:18,487 [INFO ] - 
+
+RoundhousE v0.8.7.0 has kicked your database (TestRoundHouseDb)! You are now at version 0. All changes and backups can be found at ".\output\migrations\TestRoundHouseDb\localhost\20170920_145317_0284".
